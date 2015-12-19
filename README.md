@@ -4,7 +4,7 @@ This is the official repo for the Materialos Linux Cursor Theme, and everyone is
 ### Installation (assuming `git` is installed)
 ```bash
 git clone -b linux https://github.com/materialos/Cursor-Theme.git
-sudo mv Cursor-Theme /usr/share/icons/
+sudo cp Cursor-Theme /usr/share/icons/ -r
 ```
 
 ### Licensing
